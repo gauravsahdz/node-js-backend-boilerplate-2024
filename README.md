@@ -49,9 +49,11 @@ Before running the project, ensure you have the following installed:
    cd your-repo
 
 
-npm install
+   ```bash
+   npm install
 
-PORT=3000
-MONGO_URI=mongodb://localhost:27017/your-database
+   PORT=3000
+   MONGO_URI=mongodb://localhost:27017/your-database
 
-npm start
+   ```bash
+   npm start
